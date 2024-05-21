@@ -1,0 +1,12 @@
+
+ Customer Details
+ ----------------
+
+ Room Number: 23
+ Name: sfggssg
+ Address: dsssgsgsgs
+ Phone Number: 3242342352
+ Staying for 332 days.
+ Booking Date is: 322
+ Booking Time is: 3232
+ Total cost of stay: 3320000
