@@ -358,8 +358,8 @@ int main()
                 case 6:
                     {
                     cout<<"Thank you for using the software!"<<endl;
-                    cout<<"The Group members of this project are: "<<endl;
-                    cout<<"DAWOOD,EHSAAN,MOIZ,ZAINAB"<<endl;
+                    cout<<"This project is made by: "<<endl;
+                    cout<<"DAWOOD M.SHOAIB"<<endl;
                     system("PAUSE");
                     break;
                     }
